@@ -1,0 +1,39 @@
+{
+  "name": "dukebase Tokens",
+  "timestamp": "2024-03-29T20:37:00.000+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://bafybeihk4nkr53zjphg7qo7lbatgkfesl3dz7k4vcxr4eywq6d3qb2u7mm.ipfs.nftstorage.link/",
+  "keywords": ["dukebase", "base"],
+  "tokens": [
+    {
+      "name": "Wrapped Ether",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 84532,
+      "logoURI": "https://bafkreieknqivfavhs56tqewsag6n3rew2p7iwm4azio6eqoaizmnjkudt4.ipfs.nftstorage.link/"
+    },
+    {
+      "name": "Dukebase",
+      "address": "0x0CE59C43648c22F3c72b0FB92ef72d71bc1b4965",
+      "symbol": "DUKE",
+      "decimals": 18,
+      "chainId": 84532,
+      "logoURI": "https://bafybeihk4nkr53zjphg7qo7lbatgkfesl3dz7k4vcxr4eywq6d3qb2u7mm.ipfs.nftstorage.link/"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 84532,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+    }
+
+  ]
+}
